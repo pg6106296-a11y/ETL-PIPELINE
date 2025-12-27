@@ -1,5 +1,0 @@
-usuarios = [
-    {"nome": "Ana", "conta": "12345", "cartao": "9876"},
-    {"nome": "Pedro", "conta": "67890", "cartao": "5432"},
-    {"nome": "Maria", "conta": "11223", "cartao": "1111"}
-]
