@@ -1,0 +1,4 @@
+- Objetivo do projeto
+- Conceitos de ETL aplicados
+- Como executar o código
+- Exemplos de entrada e saída

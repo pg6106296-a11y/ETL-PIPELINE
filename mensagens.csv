@@ -1,0 +1,5 @@
+mensagens = [
+    {"nome": "Ana", "mensagens": "Olá Ana, sua conta 12345 está vinculada ao cartão 9876."},
+    {"nome": "Pedro", "mensagens": "Olá Pedro, sua conta 67890 está vinculada ao cartão 5432."},
+    {"nome": "Maria", "mensagens": "Olá Maria, sua conta 11223 está vinculada ao cartão 1111."}
+]
